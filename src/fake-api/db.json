@@ -1,0 +1,135 @@
+{
+  "users": [
+    {
+      "email": "qweqwe12@mail.com",
+      "password": "qweqwe12",
+      "id": 1,
+      "role": "Admin"
+    },
+    {
+      "email": "asdasd12@mail.com",
+      "password": "asdasd12",
+      "id": 2,
+      "role": "User"
+    },
+    {
+      "email": "qweqwe12@mail.com",
+      "password": "qweqwe123",
+      "id": 3
+    },
+    {
+      "email": "ghjk12@mail.com",
+      "password": "ghjk12",
+      "id": 4
+    },
+    {
+      "email": "kepinmahen002@gmail.com",
+      "password": "asdqwe12",
+      "id": 5
+    },
+    {
+      "email": "asdf12@mail.com",
+      "password": "asdf12",
+      "id": 6
+    },
+    {
+      "email": "cvbnm1@gmail.com",
+      "password": "cvbnm1",
+      "id": 7
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "category": "All"
+    },
+    {
+      "id": 1,
+      "category": "satu"
+    },
+    {
+      "id": 2,
+      "category": "dua"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "categoryID": 1,
+      "name": "AF 1 CRAFT WHITE",
+      "stock": 400,
+      "price": 2000000,
+      "image": "https://d5ibtax54de3q.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzk5NjgvNDJhZTYzMjE0Y2I0OWQzODQyZjNhZWE3YmM5MTBhYWYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo1MDB9LCJ3ZWJwIjp7InF1YWxpdHkiOjUwfX19"
+    },
+    {
+      "id": 2,
+      "categoryID": 1,
+      "name": "AF 1 CRAFT RIDGEROCK",
+      "stock": 137,
+      "price": 2700000,
+      "image": "https://d5ibtax54de3q.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzEyNjM1LzQxMmM1YzEyZDkxNTJkYzBiMDM4ZTQxY2Q5OGY4NzNhLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfSwid2VicCI6eyJxdWFsaXR5Ijo1MH19fQ=="
+    },
+    {
+      "id": 3,
+      "categoryID": 1,
+      "name": "AF 1 CRAFT BLACK",
+      "stock": 158,
+      "price": 700000,
+      "image": "https://d5ibtax54de3q.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzg5NDMvNzVmY2Y1NGUtNTM2Yy00YTA5LTgzNzQtZWY4YWJjMWFiYzdhLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfSwid2VicCI6eyJxdWFsaXR5Ijo1MH19fQ=="
+    },
+    {
+      "id": 4,
+      "categoryID": 1,
+      "name": "AF 1 REACT WOLF GREY",
+      "stock": 199,
+      "price": 1350000,
+      "image": "https://d5ibtax54de3q.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzY3MzEvNDg4ZmNmMmUtNmQ2NS00ZjcxLTk1MGQtODk3NTcxNWU4YjBkLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfSwid2VicCI6eyJxdWFsaXR5Ijo1MH19fQ=="
+    },
+    {
+      "id": 5,
+      "categoryID": 1,
+      "name": "AF 1 LOW CLOT BLUE SILK",
+      "stock": 100,
+      "price": 5000000,
+      "image": "https://d5ibtax54de3q.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzU3MTkvZDgyMGIyZWUtOTgzNC00YzUzLWFjMTQtNmFmMjNmZDllYWNmLmpwZWciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjUwMH0sIndlYnAiOnsicXVhbGl0eSI6NTB9fX0="
+    }
+  ],
+  "cart": [],
+  "transaction": [
+    {
+      "date": "18-11-2020",
+      "total": 10750000,
+      "items": [
+        {
+          "name": "AF 1 CRAFT RIDGEROCK",
+          "categoryID": 1,
+          "image": "https://d5ibtax54de3q.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzEyNjM1LzQxMmM1YzEyZDkxNTJkYzBiMDM4ZTQxY2Q5OGY4NzNhLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfSwid2VicCI6eyJxdWFsaXR5Ijo1MH19fQ==",
+          "qty": 2,
+          "userID": 7,
+          "price": 2700000,
+          "id": 1
+        },
+        {
+          "name": "AF 1 CRAFT WHITE",
+          "categoryID": 1,
+          "image": "https://d5ibtax54de3q.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzk5NjgvNDJhZTYzMjE0Y2I0OWQzODQyZjNhZWE3YmM5MTBhYWYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo1MDB9LCJ3ZWJwIjp7InF1YWxpdHkiOjUwfX19",
+          "qty": 2,
+          "userID": 7,
+          "price": 2000000,
+          "id": 2
+        },
+        {
+          "name": "AF 1 REACT WOLF GREY",
+          "categoryID": 1,
+          "image": "https://d5ibtax54de3q.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzY3MzEvNDg4ZmNmMmUtNmQ2NS00ZjcxLTk1MGQtODk3NTcxNWU4YjBkLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfSwid2VicCI6eyJxdWFsaXR5Ijo1MH19fQ==",
+          "qty": 1,
+          "userID": 7,
+          "price": 1350000,
+          "id": 3
+        }
+      ],
+      "userID": 7,
+      "id": 1
+    }
+  ]
+}
